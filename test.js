@@ -4,8 +4,18 @@
 
 		<meta charset = "utf-8">
 
-		<title>Hello 인혁</title>
+		<title>Hello World</title>
 
 	</head>
+
+	<body>
+
+	<script>
+
+		alert('전인혁 센세');
+
+	</script>
+
+	</body>
 
 </html>
